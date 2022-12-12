@@ -7,7 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // Это изменение в branch2
-            Console.WriteLine("Hello World!");
+            
+            // Это 2-ое изменение в branch2
         }
     }
 }
