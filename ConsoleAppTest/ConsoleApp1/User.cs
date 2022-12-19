@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class User
     {
+        // f_2
     }
 }
